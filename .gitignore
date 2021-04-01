@@ -1,0 +1,6 @@
+applicants.txt
+usernames.txt
+.env
+.replit
+poetry.lock
+pyproject.toml
